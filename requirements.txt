@@ -1,0 +1,8 @@
+﻿anthropic
+flask
+flask-socketio
+python-dotenv
+requests
+whois
+python-Levenshtein
+schedule
